@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>625348379511-2mkr6vhaf3s3m9cpjd2vonlkb702i95p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.625348379511-2mkr6vhaf3s3m9cpjd2vonlkb702i95p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>625348379511-7fqnu5c3nhglu523pllghu7bs9flp2t9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1_GC1jO5O_5pzeD2L7yAh3GvpIocv5NQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>625348379511</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>se.pixolity.whatswant</string>
+	<key>PROJECT_ID</key>
+	<string>whatswants-387da</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatswants-387da.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:625348379511:ios:bfdf06cd9f737c9f335772</string>
+	<key>DATABASE_URL</key>
+	<string>https://whatswants-387da-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
